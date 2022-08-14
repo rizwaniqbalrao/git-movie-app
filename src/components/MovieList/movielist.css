@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.movie-list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    background: #050811;
+    
+}
+.btn-1{
+    text-decoration: none;
+}
